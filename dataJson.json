@@ -1,0 +1,2228 @@
+[
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Seca",
+    "Edad": "E",
+    "Abreviatura": "S"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Socorro",
+    "Edad": "E",
+    "Abreviatura": "Soc"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Clay Pebble Beds",
+    "Edad": "E",
+    "Abreviatura": "Cpb"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Rumi Cruz",
+    "Edad": "E",
+    "Abreviatura": "Rc"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Unacota",
+    "Edad": "E",
+    "Abreviatura": "U"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Pilaló",
+    "Edad": "PcE",
+    "Abreviatura": "P"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Gallo Rumi",
+    "Edad": "PcE",
+    "Abreviatura": "Gr"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Apagua",
+    "Edad": "PcE",
+    "Abreviatura": "A"
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Jubones",
+    "Edad": "M",
+    "Abreviatura": "Sj"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "La Fortuna",
+    "Edad": "O",
+    "Abreviatura": "Sf"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Plancharumi",
+    "Edad": "O",
+    "Abreviatura": "Sp"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Soldados",
+    "Edad": "O",
+    "Abreviatura": "Ss"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Cerro Caucay",
+    "Edad": "O",
+    "Abreviatura": "Scc"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Río Blanco",
+    "Edad": "O",
+    "Abreviatura": "Srb"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Chanlud",
+    "Edad": "O",
+    "Abreviatura": "Scd"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Las Trancas",
+    "Edad": "E",
+    "Abreviatura": "St"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Ocaña",
+    "Edad": "E",
+    "Abreviatura": "So"
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Chaquino",
+    "Edad": "K",
+    "Abreviatura": "Ch"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Mangahurco",
+    "Edad": "K",
+    "Abreviatura": "Mg"
+  },
+  {
+    "Rango": "Formación",
+    "Unidad litoestratigráfica": "Tronco Quemado",
+    "Edad": "K",
+    "Abreviatura": "Tq"
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "Miembro",
+    "Unidad litoestratigráfica": "Cochas",
+    "Edad": "M",
+    "Abreviatura": "C"
+  },
+  {
+    "Rango": "Miembro",
+    "Unidad litoestratigráfica": "Guapán",
+    "Edad": "M",
+    "Abreviatura": "G"
+  },
+  {
+    "Rango": "Miembro",
+    "Unidad litoestratigráfica": "El Carmen",
+    "Edad": "M",
+    "Abreviatura": "Ec"
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "Miembro",
+    "Unidad litoestratigráfica": "Lechuza",
+    "Edad": "Pl",
+    "Abreviatura": "Lh"
+  },
+  {
+    "Rango": "Miembro",
+    "Unidad litoestratigráfica": "Placer",
+    "Edad": "PL",
+    "Abreviatura": "P"
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "Miembro",
+    "Unidad litoestratigráfica": "La Banda",
+    "Edad": "M",
+    "Abreviatura": "Lbd"
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "Miembro",
+    "Unidad litoestratigráfica": "Chaparro",
+    "Edad": "M",
+    "Abreviatura": "Chp"
+  },
+  {
+    "Rango": "Miembro",
+    "Unidad litoestratigráfica": "Llacao",
+    "Edad": "PL",
+    "Abreviatura": "Ll"
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "Miembro",
+    "Unidad litoestratigráfica": "Nazón",
+    "Edad": "M",
+    "Abreviatura": "Nz"
+  },
+  {
+    "Rango": "Miembro",
+    "Unidad litoestratigráfica": "Virgen de la Nube",
+    "Edad": "M",
+    "Abreviatura": "Vn"
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "Granodiorita El Prado",
+    "Edad": "^",
+    "Abreviatura": "Mp"
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "Granitoide La Florida",
+    "Edad": "^",
+    "Abreviatura": "Mf"
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "Granodiorita Marcabelí",
+    "Edad": "^",
+    "Abreviatura": "Mm"
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  },
+  {
+    "Rango": "",
+    "Unidad litoestratigráfica": "",
+    "Edad": "",
+    "Abreviatura": ""
+  }
+]

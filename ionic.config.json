@@ -1,0 +1,7 @@
+{
+  "name": "buscadorCodigos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

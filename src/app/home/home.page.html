@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-toolbar transparent>
+    <ion-title text-center ion-text color="primary">
+      Simple Buscador de Códigos
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-row lign-items-end>
+    <ion-col offset="8" >
+      <ion-item no-padding float-right>
+        <ion-label ion-text color="danger" *ngIf="!online">Offline</ion-label>
+        <ion-label *ngIf="online">Online</ion-label>
+        <ion-toggle [checked]="online" [(ngModel)]="online" (ionChange)="updateOnline()"></ion-toggle>
+      </ion-item>
+    </ion-col>
+  </ion-row>
+
+  <!-- <ion-searchbar placeholder="Filtrar" debounce="2000" animated [(ngModel)]="searchTerm" (ionInput)="setFilteredItems()"></ion-searchbar> -->
+  <ion-searchbar (ionInput)="setFilteredItems($event)" [(ngModel)]="searchTerm"></ion-searchbar>
+  <div *ngIf="!items" class="spinner-container">
+    <ion-spinner name="lines"></ion-spinner>
+  </div>
+  <ion-row padding *ngFor="let item of tmpItems">
+    <ion-col size="4">
+      {{item['Rango']}}
+    </ion-col>
+    <ion-col size="4">
+      {{item['Unidad']}}
+    </ion-col>
+    <ion-col size="2">
+      {{item['Edad']}}
+    </ion-col>
+    <ion-col size="2">
+      {{item['Abreviatura']}}
+    </ion-col>
+  </ion-row>
+</ion-content>
