@@ -1,5 +1,10 @@
-  .spinner-container {
-    width: 100%;
-    text-align: center;
-    padding: 10px;
-  }
+.spinner-container {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+.border {
+  border-bottom: 3px dashed #ccc;
+  border-bottom-width: 1px;
+}

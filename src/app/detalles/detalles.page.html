@@ -1,0 +1,15 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title text-center>Detalles del Código</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <div *ngFor="let item of item | keyvalue">
+    <ion-row>
+      <ion-col offset="2">{{ item.key }}</ion-col>
+      <ion-col size="2"> => </ion-col>
+      <ion-col>{{ item.value }}</ion-col>
+    </ion-row>
+  </div>
+</ion-content>

@@ -3,6 +3,8 @@ import { ToastController } from "@ionic/angular";
 import { Storage } from "@ionic/storage";
 import { debounceTime } from "rxjs/operators";
 import { async } from "q";
+import { ModalController } from "@ionic/angular";
+import { DetallesPage } from "../detalles/detalles.page";
 
 @Component({
   selector: "app-home",
@@ -13,13 +15,8 @@ export class HomePage implements OnInit {
   online = true;
   searchTerm: string;
   tmpItems: any;
+  searchTipe: any;
   items = [
-    {
-      Rango: "",
-      Unidad: "",
-      Edad: "",
-      Abreviatura: ""
-    },
     {
       Rango: "Formación",
       Unidad: "Seca",
@@ -210,13 +207,14 @@ export class HomePage implements OnInit {
 
   constructor(
     public toastController: ToastController,
-    private storage: Storage
+    private storage: Storage,
+    private modal: ModalController
   ) {
     this.tmpItems = this.items;
   }
 
   ngOnInit() {
-    this.storage.get("online").then(online => {
+    /*     this.storage.get("online").then(online => {
       this.online = online;
       if (!this.online) {
         this.storage.get("codigos").then(codigos => {
@@ -224,7 +222,7 @@ export class HomePage implements OnInit {
           this.tmpItems = this.items;
         });
       }
-    });
+    }); */
   }
 
   updateOnline() {
@@ -232,26 +230,59 @@ export class HomePage implements OnInit {
     if (!this.online) {
       this.storage.set("codigos", JSON.stringify(this.items));
     } else {
-      this.loadItemFromNetwork(){
-        console.log("los cargo de la red y elimino los locales");
-         await this.storage.remove("codigos");
-      }
+      // this.loadItemFromNetwork(){
+      console.log("los cargo de la red y elimino los locales");
+      this.storage.remove("codigos").then(_ => {});
+      // }
     }
   }
 
   setFilteredItems(searhText) {
-    if (searhText.target.value) {
-      const searh = searhText.target.value.trim().toLocaleLowerCase();
+    if (searhText) {
+      const searh = searhText.trim().toLocaleLowerCase();
       this.tmpItems = this.items.filter(item => {
-        if (
-          item.Rango.toLowerCase().includes(searh) ||
-          item.Unidad.toLowerCase().includes(searh) ||
-          item.Edad.toLowerCase().includes(searh) ||
-          item.Abreviatura.toLowerCase().includes(searh)
-        ) {
-          return true;
+        if (!this.searchTipe) {
+          if (
+            item.Rango.toLowerCase().includes(searh) ||
+            item.Unidad.toLowerCase().includes(searh) ||
+            item.Edad.toLowerCase().includes(searh) ||
+            item.Abreviatura.toLowerCase().includes(searh)
+          ) {
+            return true;
+          } else {
+            return false;
+          }
         } else {
-          return false;
+          switch (this.searchTipe) {
+            case "rango": {
+              if (item.Rango.toLowerCase().includes(searh)) {
+                return true;
+              } else {
+                return false;
+              }
+            }
+            case "unidad": {
+              if (item.Unidad.toLowerCase().includes(searh)) {
+                return true;
+              } else {
+                return false;
+              }
+            }
+            case "edad": {
+              if (item.Edad.toLowerCase().includes(searh)) {
+                return true;
+              } else {
+                return false;
+              }
+            }
+            case "abreviatura": {
+              if (item.Abreviatura.toLowerCase().includes(searh)) {
+                return true;
+              } else {
+                return false;
+              }
+            }
+          }
         }
       });
     } else {
@@ -266,5 +297,13 @@ export class HomePage implements OnInit {
       closeButtonText: "Cerrar"
     });
     toast.present();
+  }
+
+  async detalles(item) {
+    const modal = await this.modal.create({
+      component: DetallesPage,
+      componentProps: { datos: item }
+    });
+    return await modal.present();
   }
 }
